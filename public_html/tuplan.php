@@ -61,8 +61,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-xs-center">
-                <h3 class="mbr-section-title display-2">Catering & Eventos</h3>
-                <div class="lead"><p>Catering y Eventos de todo tipo.</p></div>
+                <h3 class="mbr-section-title display-2">Armá tu plan de alimentación con El Olivo</h3>
+                <div class="lead"><p>¿Tenés una dieta personalizada? ¿Seguís un plan nutricional? En El Olivo Buffet te ayudamos a cumplirlo sin complicarte.</p></div>
                 
             </div>
         </div>
@@ -76,8 +76,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-xs-center">
-                <h3 class="mbr-section-title display-2"><span style="font-weight: normal;"><em>Nuestra misión</em> </span><em>es tu tranquilidad</em></h3>
-                <div class="lead"><p>En el Olivo Buffet también nos dedicamos a la organización y coordinación de eventos y reuniones socio-empresariales, cumpleaños y servicios de todo tipo. El estilo del evento lo diseñamos en coordinación con nuestros clientes de la manera mas personalizada posible. Nuestra mayor misión es satisfacer las expectativas de nuestros clientes, haciendo de su evento, un momento inolvidable, coordina con nosotros <a href="https://web.whatsapp.com/send?phone=5493625199003&text=Hola%2C+vengo+desde+la+pagina+web+y+quiero+saber&type=phone_number&app_absent=0" target="_blank">haciendo click aqui</a></p></div>
+                <div class="lead"><p>Trabajamos junto a vos (o con tu nutricionista) para adaptar nuestras viandas a tu plan alimenticio. Elegí los platos que mejor se ajusten a tus necesidades y organizá tu semana con comidas ricas, prácticas y listas para disfrutar. <br><br>
+                💚 Comé bien. Comé fácil. Comé a tu manera.</p></div>
                 
             </div>
         </div>
