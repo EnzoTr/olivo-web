@@ -135,7 +135,7 @@
 
     <!-- Card 1 -->
     <div class="col-md-4" style="margin-bottom: 1em;">
-      <div class="modern-card shadow-lg" style="background-image: url('https://images.unsplash.com/photo-1612966893103-790e549a2ab1?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); background-size: cover; background-position: center;">
+      <div class="modern-card shadow-lg" style="background-image: url('assets/images/pastas-congeladas.jpeg'); background-size: cover; background-position: center;">
         <div class="modern-card-content" style="text-align: center;">
           <h5>Pastas Congeladas</h5>
           <p class="text-white" style="opacity: .75;">Ravioles, sorrentinos o capelettis... Platos clásicos listos en minutos. Solo calentalos, agregá salsa y listo.</p>
@@ -145,7 +145,7 @@
 
     <!-- Card 2 -->
     <div class="col-md-4 shadow" style="margin-bottom: 1em;">
-      <div class="modern-card shadow-lg" style="background-image: url('https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=481&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); background-size: cover; background-position: center;">
+      <div class="modern-card shadow-lg" style="background-image: url('assets/images/pizzas-congeladas.jpeg'); background-size: cover; background-position: center;">
         <div class="modern-card-content text-white" style="text-align: center;">
           <h5>Pizzas Congeladas</h5>
           <p class="text-white" style="opacity: .75;">Base casera e ingredientes sabrosos. En 10 minutos, una pizza digna de sábado... aunque sea martes.</p>
@@ -155,7 +155,7 @@
 
     <!-- Card 3 -->
     <div class="col-md-4" style="margin-bottom: 1em;">
-      <div class="modern-card shadow-lg" style="background-image: url('https://images.unsplash.com/photo-1624128082323-beb6b8b508db?q=80&w=465&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); background-size: cover; background-position: center;">
+      <div class="modern-card shadow-lg" style="background-image: url('assets/images/empanadas-congeladas.jpeg'); background-size: cover; background-position: center;">
         <div class="modern-card-content" style="text-align: center;">
           <h5>Empanadas Congeladas</h5>
           <p class="text-white" style="opacity: .75;">¿Tenés visitas o antojo? Cocinalas directo del freezer al horno. Crocantes, rellenas y salvadoras.</p>

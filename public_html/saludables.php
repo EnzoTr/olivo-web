@@ -54,7 +54,7 @@
 	    <i class="fa fa-whatsapp icono"></i>
     	</a>
 
-<section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-13" style="background-image: url(assets/images/ensalada-de-atun-y-hortalizas-con-aderezo-fresco-2000x2000-36.jpg); padding-top: 120px; padding-bottom: 120px;">
+<section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-13" style="background-image: url(assets/images/saludables.jpeg); padding-top: 120px; padding-bottom: 120px;">
 
     <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
     </div>
